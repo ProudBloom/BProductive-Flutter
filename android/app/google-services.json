@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "856637896114",
+    "firebase_url": "https://bproductive-flutter.firebaseio.com",
+    "project_id": "bproductive-flutter",
+    "storage_bucket": "bproductive-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856637896114:android:7c83fbfcd82a70b78460ab",
+        "android_client_info": {
+          "package_name": "com.example.bproductiveflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856637896114-cs3v5bbjhv8voh4e61avdpmvljs2umfj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCMt1CqsSGVF0_8NhMqYsvzyAFuni6Fvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856637896114-cs3v5bbjhv8voh4e61avdpmvljs2umfj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
